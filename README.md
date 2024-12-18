@@ -29,6 +29,13 @@ My technical journey is backed by continuous learning, focusing on **modern fron
 - **Code Splitting**: Optimize bundle sizes using dynamic imports.
 - **Suspense & Lazy**: Load components asynchronously for better performance.
 
+<details>
+  <summary><strong>📊 My Full React Roadmap</strong></summary>
+  <p align="center">
+    <img src="RoadMap.jpeg" alt="React Roadmap" width="100%"/>
+  </p>
+</details>
+
 ---
 
 ## 💻 Technologies
@@ -89,11 +96,11 @@ My technical journey is backed by continuous learning, focusing on **modern fron
 
 ## 📊 Key Projects
 
-### **1. Planifyz**
+### [**1. Planifyz**](https://github.com/UFV-INGINF/proyecto-fin-de-grado-2024-2-skalvarony)
 **Technologies**: React, Redux Toolkit, Node.js, TailwindCSS, PostgreSQL  
-**Description**: A dynamic task management system for students and professionals. Implemented efficient state management and modern design.
+**Description**: An educational platform empowering primary school students to self-manage and plan their studies. Features include interactive calendars, progress tracking for parents, and personalized study recommendations.
 
-### **2. E-Commerce Platform**  
+### [**2. E-Commerce Platform**](https://github.com/skalvarony/e-commerce)
 **Technologies**: React, Styled Components, Redux, GraphQL, Stripe API  
 **Description**: Full-stack e-commerce platform offering seamless user experience with payment integration and dynamic product management.
 
@@ -115,12 +122,7 @@ My technical journey is backed by continuous learning, focusing on **modern fron
   <a href="mailto:alvaro.fernandez.navas@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=skalvarony&icon=0&color=0" alt="Visit Count"/>
+  <a href="https://skalvarony.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
