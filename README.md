@@ -11,6 +11,16 @@ My technical journey is backed by continuous learning, focusing on **modern fron
 
 ---
 
+## 🗂️ My Projects
+
+- 📂 [React](./React.md)
+- 📂 [Next.js](./Nextjs.md)
+- 📂 [Node.js](./Nodejs.md)
+- 📂 [GraphQL](./GraphQL.md)
+- 📂 [Ruby On Rails](./RubyOnRails.md)
+
+---
+
 ## 💻 Technologies
 
 ### **🌐 Languages**
@@ -187,16 +197,6 @@ My technical journey is backed by continuous learning, focusing on **modern fron
 
 ---
 
-## 🗂️ My Projects
-
-- 📂 [React](./React.md)
-- 📂 [Next.js](./Nextjs.md)
-- 📂 [Node.js](./Nodejs.md)
-- 📂 [GraphQL](./GraphQL.md)
-- 📂 [Ruby On Rails](./RubyOnRails.md)
-
-
----
 
 ## 📊 Key Projects
 
