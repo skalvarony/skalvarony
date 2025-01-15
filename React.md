@@ -55,7 +55,7 @@
       cursor: pointer;
       font-size: 16px;
     ">
-      Home
+      🔙 Home
     </button>
   </a>
 <p>
