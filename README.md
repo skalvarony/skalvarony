@@ -189,11 +189,12 @@ My technical journey is backed by continuous learning, focusing on **modern fron
 
 ## 🗂️ My Projects
 
- ┣ 📂 [React](./React.md)
- ┣ 📂 [Next.js](./Nextjs.md)
- ┣ 📂 [Node.js](./Nodejs.md)
- ┣ 📂 [QraphQL](./GraphQL.md)
- ┗  📂 [Ruby On Rails](./RubyOnRails.md)
+- 📂 [React](./React.md)
+- 📂 [Next.js](./Nextjs.md)
+- 📂 [Node.js](./Nodejs.md)
+- 📂 [GraphQL](./GraphQL.md)
+- 📂 [Ruby On Rails](./RubyOnRails.md)
+
 
 ---
 
