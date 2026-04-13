@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=1E40AF&center=true&vCenter=true&width=800&height=100&lines=Building+Production+RAG+Systems+%F0%9F%9A%80;GCP+%2B+Python+%2B+LLMs+%E2%9A%A1;AI+Engineering+at+Vodafone+Spain;Turning+AI+Ideas+into+Reality+%F0%9F%92%A1" alt="Typing SVG" />
 </p>
 
-<!-- Glowing Badges with Animation -->
+<!-- Glowing Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/🎯_Focus-RAG_Systems-059669?style=for-the-badge&labelColor=000000" alt="Focus"/>
   <img src="https://img.shields.io/badge/💼_Status-Production_AI-1E40AF?style=for-the-badge&labelColor=000000" alt="Status"/>
@@ -18,12 +18,12 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=skalvarony&label=Profile+Views&color=1e40af&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/skalvarony?label=Followers&style=for-the-badge&color=3b82f6&logo=github" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/skalvarony?label=Total+Stars&style=for-the-badge&color=059669&logo=github" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/stars/skalvarony?affiliations=OWNER&style=for-the-badge&color=059669&logo=github" alt="GitHub Stars" />
 </p>
 
-<!-- GitHub Profile 3D Contribution -->
+<!-- GitHub Trophies -->
 <p align="center">
-  <img src="https://github-profile-3d-contrib-sable.vercel.app/api/graph?username=skalvarony&theme=nord&area=true&hide_border=true&bg_color=0D1117" alt="3D Contribution Graph"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=skalvarony&theme=nord&no-frame=true&no-bg=false&margin-w=4&column=7" alt="Trophies"/>
 </p>
 
 ---
@@ -59,13 +59,7 @@ const alvaro = {
 
 ### 💼 Professional Journey
 
-```mermaid
-graph LR
-    A[Data Science<br/>Naturgy] --> B[Tech Strategy<br/>Deloitte UK/Spain]
-    B --> C[AI Engineering<br/>Vodafone Spain]
-    C --> D[GenAI & RAG<br/>Production Systems]
-    style D fill:#1E40AF,stroke:#3B82F6,stroke-width:3px,color:#fff
-```
+**Data Science (Naturgy)** → **Tech Strategy (Deloitte UK/Spain)** → **AI Engineering (Vodafone Spain)** → **GenAI & RAG Production Systems**
 
 ---
 
@@ -112,7 +106,7 @@ graph LR
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,gcp,aws,docker,postgres,mongodb,javascript,typescript,react,nodejs,git,github,vscode&perline=8" />
 </p>
 
-### 📊 Skill Levels (Self-Assessment)
+### 📊 Skill Levels
 
 <table width="100%">
 <tr>
@@ -179,7 +173,7 @@ Tech Stack:
 - ✅ Automated workflows reducing manual work by 60%
 - ✅ Pioneered GenAI adoption within organization
 
-<img src="https://progress-bar.dev/100/?title=Deployed&width=400&color=059669" alt="Progress"/>
+<img src="https://progress-bar.dev/100/?title=Deployed&width=400&color=059669&scale=100" alt="Progress"/>
 
 </div>
 
@@ -212,7 +206,7 @@ Tech Stack:
 - 📅 Intelligent scheduling
 - 🎯 Personalized learning paths
 
-<img src="https://progress-bar.dev/100/?title=Completed&width=250&color=3B82F6" alt="Progress"/>
+<img src="https://progress-bar.dev/100/?title=Completed&width=250&color=3B82F6&scale=100" alt="Progress"/>
 
 </td>
 <td width="50%">
@@ -237,7 +231,7 @@ Tech Stack:
 - 💰 Reduced churn through ML insights
 - 🔬 Real-world enterprise ML deployment
 
-<img src="https://progress-bar.dev/100/?title=Published&width=250&color=6366F1" alt="Progress"/>
+<img src="https://progress-bar.dev/100/?title=Published&width=250&color=6366F1&scale=100" alt="Progress"/>
 
 </td>
 </tr>
@@ -260,16 +254,6 @@ Tech Stack:
 <!-- Streak Stats -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=skalvarony&theme=transparent&hide_border=true&background=0D1117&stroke=3B82F6&ring=1E40AF&fire=3B82F6&currStreakLabel=C9D1D9&sideLabels=3B82F6&dates=C9D1D9" alt="GitHub Streak"/>
-</p>
-
-<!-- Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=skalvarony&theme=nord&no-frame=true&no-bg=false&margin-w=4&column=7" alt="Trophies"/>
-</p>
-
-<!-- Snake Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/skalvarony/skalvarony/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 </p>
 
 ---
@@ -324,12 +308,14 @@ Tech Stack:
 ### 🎓 Academic Background
 
 **Universidad Francisco de Vitoria**
+
 Dual B.Sc. Computer Science & Business Analytics
+
 GPA: 3.5/4 (Top 10%)
 
 **Thesis:**
-🔬 AI Study Planner (CS)
-📊 Customer Clustering (Analytics)
+- 🔬 AI Study Planner (CS)
+- 📊 Customer Clustering (Analytics)
 
 </td>
 </tr>
@@ -351,15 +337,10 @@ GPA: 3.5/4 (Top 10%)
   </a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,1,2,3&height=2"/>
-</p>
-
 ---
 
-<!-- Quote -->
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Building+the+future+of+GenAI,+one+production+system+at+a+time&author=Álvaro+Fernández" alt="Quote"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,1,2,3&height=2"/>
 </p>
 
 <!-- Footer Wave -->
@@ -371,5 +352,5 @@ GPA: 3.5/4 (Top 10%)
 </p>
 
 <p align="center">
-  <sub>⚡ Profile auto-updated with GitHub Actions | Last refresh: Daily</sub>
+  <sub>💙 Made with passion for AI Engineering | ⚡ Updated regularly</sub>
 </p>
